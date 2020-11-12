@@ -17,7 +17,7 @@
     "normalize.css": "^8.0.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-monaco-editor": "^0.33.0"
+    "react-monaco-editor": "^0.40.0"
   },
   "browserslist": {
     "production": [
